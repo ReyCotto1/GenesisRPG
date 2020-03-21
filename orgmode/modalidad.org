@@ -1,0 +1,12 @@
+* MODALIDAD 
+
+** Informacion
+*** Nombre: [Campo Basico]
+*** Ascendencia:
+**** Nativo     — Ascendencia [[./orgmode/Ascendencia/nativo.org][Regular]].
+**** Foraneo    — Ascendencia [[./orgmode/Ascendencia/foraneo.org][Irregular]].
+**** Real       — Ascendencia de [[./orgmode/Ascendencia/real.org][Las Diez Grandes Familias]].
+**** Antigua    — Ascendencia de [[./orgmode/Ascendencia/antigua.org][Los Antiguos]].
+** Atributos
+** Habilidades
+** Disciplinas
