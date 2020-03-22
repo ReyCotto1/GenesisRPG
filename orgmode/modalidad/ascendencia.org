@@ -39,7 +39,7 @@ La familia Ha es conocida por mantener un contrato con los Guardianes. El mismo
 permite a los descendientes poseer una mejora de shinsoo sin comparacion con otro
 usuario de la torre, bendiciendolos con un cuerpo dificil de herir. 
 **** Habilidad: [Descendiente de la Familia Ha] 
-     - Obliga al usuario a portar la disciplina de la [Mejora con Shinsoo],
+     - Obliga al usuario a portar la disciplina de la [Mejora Física],
        en cambio, permite un nivel extra en la misma. 
 
 *** TODO Hendo Lok 
@@ -69,7 +69,7 @@ La familia Po Bidau son expertas en el manejo del Shinsoo, principalmente con gr
 Esto los hace principalmente cercanos a la Asociación de Investigación, la cual goza de gran
 prestigio y en caso de no acceder a esta se les expulsa de la casa en sí.
 **** Habilidad: [Descendiente de la Familia Po Bidau] 
-     - Obliga al usuario a portar la disciplina de la [Resistencia Shinsoo],
+     - Obliga al usuario a portar la disciplina de la [Mejora Shinsoo],
      en cambio, permite un nivel extra en la misma. 
 
 *** DONE Tu Perie
