@@ -42,9 +42,12 @@ usuario de la torre, bendiciendolos con un cuerpo dificil de herir.
      - Obliga al usuario a gastar un punto más en la característica de [Fuerza],
        en cambio, permite un nivel extra en la misma. 
 
-*** TODO Hendo Lok 
+*** DONE Hendo Lok 
+La familia Hendo Lok es conocida por su gran defensa en todos los sentidos, aunque tienen la
+menor influencia y cantidad de rankers en sí. Esto se debe a que Bloodmadder hizo un pacto 
+que los maldijo con periodos de vida cortos. 
 **** Habilidad: [Descendiente de la Familia Hendo Lok] 
-     - Obliga al usuario a portar la disciplina de la [Maestria del Shinsoo],
+     - Obliga al usuario a portar la disciplina de la [Posicion: Defensor],
        en cambio, permite un nivel extra en la misma. 
 
 *** DONE Koon 
