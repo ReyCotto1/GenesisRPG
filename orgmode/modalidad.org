@@ -1,12 +1,24 @@
 * MODALIDAD 
 
 ** Informacion
-*** Nombre: [Campo Basico]
-*** Ascendencia:
-**** Nativo     — Ascendencia [[./orgmode/Ascendencia/nativo.org][Regular]].
-**** Foraneo    — Ascendencia [[./orgmode/Ascendencia/foraneo.org][Irregular]].
-**** Real       — Ascendencia de [[./orgmode/Ascendencia/real.org][Las Diez Grandes Familias]].
-**** Antigua    — Ascendencia de [[./orgmode/Ascendencia/antigua.org][Los Antiguos]].
+*** Nombre: 
+Campo basico, mutable.
+    Nombre y apellido del personaje (familia).
+*** [[./modalidad/ascendencia.org][Ascendencia]]: 
+Campo basico, inmutable.
+    - Regular
+    - Irregular
+    - Real
+    - Antigua
+*** Fisiologia: 
+Campo narrativo, mutable.
+    Descripcion fisica, maximo 5 lineas debido a su superficialidad.
+*** Psicologia: 
+Campo narrativo, mutable.
+    Descripcion mental, maximo 5 lineas debido a su superficialidad.
+*** Cronologia: 
+Campo narrativo, mutable.
+    Descripcion mental, maximo 5 lineas debido a su superficialidad.
 ** Atributos
 ** Habilidades
 ** Disciplinas
