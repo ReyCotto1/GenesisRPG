@@ -7,8 +7,8 @@ Campo basico, mutable.
 *** [[./modalidad/ascendencia.org][Ascendencia]]: 
 Campo basico, inmutable.
     - Regular
+    - Noble
     - Irregular
-    - Real
     - Antigua
 *** Fisiologia: 
 Campo narrativo, mutable.
