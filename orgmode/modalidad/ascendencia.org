@@ -39,7 +39,7 @@ La familia Ha es conocida por mantener un contrato con los Guardianes. El mismo
 permite a los descendientes poseer una mejora de shinsoo sin comparacion con otro
 usuario de la torre, bendiciendolos con un cuerpo dificil de herir. 
 **** Habilidad: [Descendiente de la Familia Ha] 
-     - Obliga al usuario a portar la disciplina de la [Mejora Física],
+     - Obliga al usuario a gastar un punto más en la característica de [Fuerza],
        en cambio, permite un nivel extra en la misma. 
 
 *** TODO Hendo Lok 
