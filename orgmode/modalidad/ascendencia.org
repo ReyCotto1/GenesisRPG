@@ -63,10 +63,21 @@ las bestias dependientes del shinsoo y los animales de la torre.
 **** Habilidad: [Descendiente de la Familia Lo Po Bia] 
      - Obliga al usuario a portar la disciplina de la [Posicion: Anima].
 
-*** TODO Po Bidau 
--
-*** TODO Tu Perie 
-- 
+*** DONE Po Bidau 
+La familia Po Bidau son expertas en el manejo del Shinsoo, principalmente con gran precisión.
+Esto los hace principalmente cercanos a la Asociación de Investigación, la cual goza de gran
+prestigio y en caso de no acceder a esta se les expulsa de la casa en sí.
+**** Habilidad: [Descendiente de la Familia Po Bidau] 
+     - Obliga al usuario a portar la disciplina de la [Maestría del Shinsoo].
+
+*** DONE Tu Perie
+La familia Tu Perie desde sus comienzos se ha dedicado al uso de los faros.
+Gracias a los años de experiencia y tener a los mejores en el ámbito, sin
+mucho esfuerzo esta familia fue rápidamente reconocida por sus habilidades
+en convertirse en los usuarios de una posición específica: Portador de la Luz.
+**** Habilidad: [Descendiente de la Familia Tu Perie] 
+     - Obliga al usuario a portar la disciplina de la [Posicion: Portador de la Luz].
+
 *** DONE Yeon 
 Los Yeon son una familia matriarcal donde las mujeres son las que toman los roles
 importantes dentro de la rama central, y los hombres son despreciados y subestimados.
@@ -77,8 +88,14 @@ les permite manipular el fuego en su interior y utilizarlo de forma ofensiva y d
        en cambio, permite un nivel extra en la misma. Este ultimo nivel varia
        entre: [El fuego que todo lo quema] o [La llama que todo lo cura]. 
 
-** TODO Irregular 
+** DONE Irregular 
 Ascendencia desconocida, proveniente de algun lugar fuera de la torre.
+Los irregulares se llaman así ya que han, de una forma u otra, conseguido
+ingresar a la torre sin ser elegidos expresamente por Headon. Esto los
+hace tan peligrosos como poderosos y son temidos por muchos.
+**** Habilidad: [Irregularidad] 
+     - Obliga al usuario a portar la disciplina de la [Irregular].
+
 ** DONE Antigua 
 Descendiente de los nativos de la torre interior.
   - Inicia con un solo punto de disciplina y la cualidad [Nativo].
