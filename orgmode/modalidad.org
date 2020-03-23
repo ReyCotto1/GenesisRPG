@@ -54,7 +54,7 @@ Campo narrativo, mutable.
      - Determinacion
      - Conocimiento
      - Ingenio
-**** Avanzados 
+**** TODO Avanzados 
 ***** Talentos
 ***** Habilidades
 ***** Conocimientos
