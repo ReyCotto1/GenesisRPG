@@ -1,11 +1,11 @@
 * ASCENDENCIA 
 
-** DONE Regular 
+** Regular 
 Descendiente de una pareja de regulares provenientes de la torre.
   - Inicia sin ventajas en cuestion a disciplinas, pero con la ventaja de poder
     elegir cuales disciplinas adoptar en la creacion de su personaje.
 
-** TODO Noble 
+** Noble 
 Descendiente, directo o indirecto, de uno de los lideres de las grandes familias.
   - Inicia con la ventaja de la familia elegida, no obstante, solo tiene una
     disciplina a elegir en el momento de la creacion de su personaje.
@@ -44,11 +44,10 @@ usuario de la torre, bendiciendolos con un cuerpo dificil de herir.
 
 *** DONE Hendo Lok 
 La familia Hendo Lok es conocida por su gran defensa en todos los sentidos, aunque tienen la
-menor influencia y cantidad de rankers en sí. Esto se debe a que Bloodmadder hizo un pacto 
-que los maldijo con periodos de vida cortos. 
+menor influencia y cantidad de rankers. Esto se debe a que su lider hizo un pacto con los guardianes 
+que los maldijo con periodos de vida cortos con tal de obtener la inmortalidad.
 **** Habilidad: [Descendiente de la Familia Hendo Lok] 
-     - Obliga al usuario a portar la disciplina de la [Posicion: Defensor],
-       en cambio, permite un nivel extra en la misma. 
+     - Obliga al usuario a portar la disciplina de la [Posicion: Defensor.
 
 *** DONE Koon 
 Los Koon son la familia mas confiada y orgullosa del resto, aunque no les falta razon.
@@ -64,8 +63,7 @@ Esto es debido a que existe una alta posibilidad que los descendientes Lo Po Bia
 hereden la posicion especial de Anima; los anima son reconocidos por controlar
 las bestias dependientes del shinsoo y los animales de la torre.
 **** Habilidad: [Descendiente de la Familia Lo Po Bia] 
-     - Obliga al usuario a portar la disciplina de la [Posicion: Anima],
-     en cambio, permite un nivel extra en la misma. 
+     - Obliga al usuario a portar la disciplina de la [Posicion: Anima].
 
 *** DONE Po Bidau 
 La familia Po Bidau son expertas en el manejo del Shinsoo, principalmente con gran precisión.
@@ -94,7 +92,7 @@ les permite manipular el fuego en su interior y utilizarlo de forma ofensiva y d
        en cambio, permite un nivel extra en la misma. Este ultimo nivel varia
        entre: [El fuego que todo lo quema] o [La llama que todo lo cura]. 
 
-** DONE Irregular 
+** Irregular 
 Ascendencia desconocida, proveniente de algun lugar fuera de la torre.
 Los irregulares se llaman así ya que han, de una forma u otra, conseguido
 ingresar a la torre sin ser elegidos expresamente por Headon. Esto los
@@ -102,7 +100,7 @@ hace tan peligrosos como poderosos y son temidos por muchos.
 **** Habilidad: [Irregularidad] 
      - Obliga al usuario a portar la disciplina de la [Irregular].
 
-** DONE Antigua 
+** Antigua 
 Descendiente de los nativos de la torre interior.
   - Inicia con un solo punto de disciplina y la cualidad [Nativo].
 *** Cualidad: [Nativo] 

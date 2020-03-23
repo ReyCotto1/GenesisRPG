@@ -1,9 +1,21 @@
 * MODALIDAD 
 
-** Informacion
+** Informacion 
 *** Nombre: 
 Campo basico, mutable.
     Nombre y apellido del personaje (familia).
+*** Rango: 
+Campo basico, inmutable.
+    Rango de la torre interior. Al inicio se empieza con rango F.
+    - Rango F
+    - Rango E
+    - Rango D
+    - Rango C
+    - Rango B
+    - Rango A
+    - Ranker
+    - High Ranker
+    - Blue Hole
 *** [[./modalidad/ascendencia.org][Ascendencia]]: 
 Campo basico, inmutable.
     - Regular
@@ -18,7 +30,61 @@ Campo narrativo, mutable.
     Descripcion mental, maximo 5 lineas debido a su superficialidad.
 *** Cronologia: 
 Campo narrativo, mutable.
-    Descripcion mental, maximo 5 lineas debido a su superficialidad.
-** Atributos
-** Habilidades
-** Disciplinas
+    Descripcion historica para explicar su ascendencia, maximo 10 lineas.
+** Rasgos 
+   - Los rasgos son aquellos atributos que encasillan a tu personaje, diferenciandolo de otro. 
+     Asimismo, los rasgos pueden ir mejorando con el tiempo, y se dividen en rasgos basicos
+     (caracteristicas mas visibles) y rasgos avanzados (yendo desde talentos, habilidades,
+     hasta los conocimientos profesionales de tu personaje).
+*** Tower Points 
+     - Desde el momento en que se entra a la torre interior, el cuerpo de un regular se va 
+     acostumbrando a la alta densidad del shinsoo. Por lo tanto, a medida que se suben los 
+     pisos de la torre, el regular va recibiendo "Tower Points" que poder usar en sus rasgos.
+*** Basicos 
+**** Fisico 
+     - Fuerza
+     - Resistencia
+     - Destreza
+**** Social 
+     - Persuasion
+     - Compostura
+     - Temple
+**** Mental 
+     - Determinacion
+     - Conocimiento
+     - Ingenio
+*** Avanzados 
+**** Talentos
+**** Habilidades
+**** Conocimientos
+** Destrezas 
+*** Combat Points 
+    El uso de tus tecnicas en batalla te familiariza y ensena muchos matices ocultos sobre
+    el arte de la guerra, y estas experiencias son una herramienta clave para mejorar tus
+    destrezas de batalla. Cada combate te regala valiosos puntos con los que mejorar.
+*** Especializaciones
+    - Las destrezas son aconglomeraciones muy generales para clasificar los distintos estilos
+      de lucha y la gran posibilidad de varianzas que tiene una misma destreza. Por lo tanto, 
+      en algunos casos, las destrezas pueden tener varias destrezas "dentro" de la misma. 
+      Ergo, para poder avanzar en una especialidad necesitas subir la destreza madre, haciendola
+      una dependiente de la otra. El mas basico ejemplo puede ser la [Maestria en Shinsoo] y sus
+      especializaciones: [Baang], [Myun], [Soo] y la importante [Tension].
+      Para mas informacion leer [[https://towerofgod.fandom.com/wiki/Shinsoo][aqui]] la seccion llamada Baang, Myun and Soo.
+*** Afinidades
+    - Las afinidades del shinsoo son, precisamente, un tipo de destreza que cambian directamente
+      la naturaleza, forma y funcion del shinsoo para transformarlo en materia no-viviente; aunque
+      se dice que han habido irregulares con una alta maestria para controlar el shinsoo, que han
+      podido crear vida del mismo. Aunque son solo especulaciones, despues de todo.
+
+    - Afinidades conocidas:
+      [Afinidad Ignea]
+      [Afinidad Electrica]
+      [Afinidad Acuatica]
+      [Afinidad Terrestre]
+      [Afinidad Aerea]
+      [Afinidad Forestal]
+      [Afinidad Floral]
+
+      No obstante, que ya haya un listado de afinidades conocidas
+      no quiere decir que no puedan existir otras.
+** Cualidades
