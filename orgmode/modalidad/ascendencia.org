@@ -92,6 +92,30 @@ les permite manipular el fuego en su interior y utilizarlo de forma ofensiva y d
        en cambio, permite un nivel extra en la misma. Este ultimo nivel varia
        entre: [El fuego que todo lo quema] o [La llama que todo lo cura]. 
 
+** Guias 
+    Los guias son una clase especial dentro de la torre. Enfocados en
+    seguir a una ideologia mayor, se enfocan en servir a aquella persona
+    hacia la que han regalado sus votos. Sus habilidades van desde una
+    inmensa biblioteca de conocimiento general, hasta un entendimiento
+    de la torre y el campo de batalla mas alla de los limites; pues se
+    dice que los guias son capaces, en mayor o menor medida, de ver las
+    encrucijadas que le deparara el futuro.
+
+    
+*** Brujas Carmesi
+    Las brujas carmesi tienen la habilidad de ver las encrucijadas del
+    futuro en una escala mucho mayor que otros guias, en cambio, ven una
+    parte muy poco detallada de la misma. Las brujas carmesi usualmente
+    son vistas como una seccion importantisima de la asociacion FUG.
+    Tambien, son conocidas porque la raza entera de brujas carmesi 
+    poseen el cabello y ojos rojizos. 
+*** Enanos Plateados
+    Los enanos plateados tienen la habilidad de ver las encrucijadas del
+    futuro inmediato, maximo un par de horas, en cambio, ven casi exactamente
+    lo que pasara, con lujo de detalles en todos los caminos a tomar. 
+    Los enanos plateados son asignados a una princesa Zahard desde el momento
+    en que la ceremonia acaba. Al igual que las brujas carmesi, los enanos
+    plateados son conocidos por su poca estatura y su cabello y ojos color plata.
 ** Irregular 
 Ascendencia desconocida, proveniente de algun lugar fuera de la torre.
 Los irregulares se llaman así ya que han, de una forma u otra, conseguido

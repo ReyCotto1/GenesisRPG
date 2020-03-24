@@ -1,0 +1,27 @@
+* RASGOS 
+  Los rasgos son aquellos atributos que encasillan a tu personaje, diferenciandolo de otro.
+  Asimismo, los rasgos pueden ir mejorando con el tiempo, y se dividen en rasgos basicos
+  (caracteristicas mas visibles) y rasgos avanzados (yendo desde talentos, habilidades,
+  hasta los conocimientos profesionales de tu personaje).
+
+** Tower Points  
+   Desde el momento en que se entra a la torre interior, el cuerpo de un regular se va
+   acostumbrando a la alta densidad del shinsoo. Por lo tanto, a medida que se suben los 
+   pisos de la torre, el regular va recibiendo "Tower Points" que poder usar en sus rasgos.
+** Basicos 
+*** Fisico 
+**** Fuerza
+**** Resistencia
+**** Destreza
+*** Social 
+**** Persuasion
+**** Compostura
+**** Temple
+*** Mental 
+**** Determinacion
+**** Conocimiento
+**** Ingenio
+** TODO Avanzados 
+*** Talentos
+*** Habilidades
+*** Conocimientos
