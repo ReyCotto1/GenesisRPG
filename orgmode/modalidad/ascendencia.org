@@ -39,7 +39,7 @@ La familia Ha es conocida por mantener un contrato con los Guardianes. El mismo
 permite a los descendientes poseer una mejora de shinsoo sin comparacion con otro
 usuario de la torre, bendiciendolos con un cuerpo dificil de herir. 
 **** Habilidad: [Descendiente de la Familia Ha] 
-     - Obliga al usuario a gastar un punto más en la característica de [Fuerza],
+     - Obliga al usuario a gastar un punto mas en la caracteristica de [Fuerza],
        en cambio, permite un nivel extra en la misma. 
 
 *** DONE Hendo Lok 
@@ -47,7 +47,7 @@ La familia Hendo Lok es conocida por su gran defensa en todos los sentidos, aunq
 menor influencia y cantidad de rankers. Esto se debe a que su lider hizo un pacto con los guardianes 
 que los maldijo con periodos de vida cortos con tal de obtener la inmortalidad.
 **** Habilidad: [Descendiente de la Familia Hendo Lok] 
-     - Obliga al usuario a portar la disciplina de la [Posicion: Defensor.
+     - Obliga al usuario a portar la disciplina de la [Posicion: Defensor].
 
 *** DONE Koon 
 Los Koon son la familia mas confiada y orgullosa del resto, aunque no les falta razon.

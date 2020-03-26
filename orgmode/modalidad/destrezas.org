@@ -1,10 +1,10 @@
 * DESTREZAS 
 
-**** Combat Points 
+** Combat Points 
      El uso de tus tecnicas en batalla te familiariza y ensena muchos matices ocultos sobre
      el arte de la guerra, y estas experiencias son una herramienta clave para mejorar tus
      destrezas de batalla. Cada combate te regala valiosos puntos con los que mejorar.
-**** Especializaciones 
+** Especializaciones 
      Las destrezas son aconglomeraciones muy generales para clasificar los distintos estilos
      de lucha y la gran posibilidad de varianzas que tiene una misma destreza. Por lo tanto, 
      en algunos casos, las destrezas pueden tener varias destrezas "dentro" de la misma. 
@@ -12,7 +12,7 @@
      una dependiente de la otra. El mas basico ejemplo puede ser la [Maestria en Shinsoo] y sus
      especializaciones: [Baang], [Myun], [Soo] y la importante [Tension].
      Para mas informacion leer [[https://towerofgod.fandom.com/wiki/Shinsoo][aqui]] la seccion llamada Baang, Myun and Soo.
-**** Afinidades 
+** Afinidades 
      Las afinidades del shinsoo son, precisamente, un tipo de destreza que cambian directamente
      la naturaleza, forma y funcion del shinsoo para transformarlo en materia no-viviente; aunque
      se dice que han habido irregulares con una alta maestria para controlar el shinsoo, que han

@@ -35,14 +35,15 @@ Campo narrativo, mutable.
 ** Sistema de Batalla 
    El sistema de progreso esta basado en articulos que se obtienen o mejoran
    a cambio de puntos. Los TP mejoran rasgos y los CP mejoran destrezas.
+   Los rasgos, destrezas y cualidades tienen un maximo de 5 niveles de evolucion.
 *** [[./modalidad/rasgos.org][Rasgos]]
 *** [[./modalidad/destrezas.org][Destrezas]]
 *** [[./modalidad/cualidades.org][Cualidades]]
 ** Sistema de Equipo 
-   
 ** Sistema de Objetos 
    -
 ** La Fabrica 
 *** Consumibles
 *** Equipamiento
 *** Miscelanea
+    
