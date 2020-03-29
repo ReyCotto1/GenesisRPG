@@ -13,15 +13,42 @@
      especializaciones: [Baang], [Myun], [Soo] y la importante [Tension].
      Para mas informacion leer [[https://towerofgod.fandom.com/wiki/Shinsoo][aqui]] la seccion llamada Baang, Myun and Soo.
 ** Posiciones 
-   Las posiciones son destrezas particulares que representan la habilidad de una persona
-   para llevar a cabo una tarea especifica dentro del campo de batalla. 
-
+   Las posiciones son destrezas particulares que representan la habilidad de
+   una persona para llevar a cabo una tarea especifica dentro del campo de batalla. 
+   Estas destrezas solo tienen un punto, y la primera posicion es regalada luego de 
+   completar el Piso de las Pruebas. Asimismo, si dos combatientes tienen la misma
+   destreza en el mismo nivel, siempre ganara el que tenga la posicion especializada.
 *** Posiciones Basicas 
-**** [Posicion: Pescador]
-**** [Posicion: Explorador]
-**** [Posicion: Portador de Lanzas]
-**** [Posicion: Portador de la Luz]
+**** [Posicion: Pescador] 
+     El pescador es una posicion ofensiva centrada en rango medio-corto. 
+     Los pescadores usualmente utilizan un inventario de carrete lleno de agujas;
+     ver otro tipo de armas en un pescador es raro ya que el resto de armas
+     tienen mucha mas resistencia por la densidad de shinsoo, lo que les hace mas
+     lentos y debiles. No obstante, ser pescador no te vuelve experto en agujas,
+     ya que no es un limite, y queda a preferencia del pescador.
+
+     Tener esta posicion te brinda un punto en: [Maestria en Carretes].
+**** [Posicion: Explorador] 
+     Hay dos tipos de exploradores. Los exploradores convencionales trabajan
+     para recopilar informacion y distribuirla entre los miembros del grupo
+     utilizando su observador. El otro tipo son exploradores de combate, estos
+     usan armamento ligero para centrarse en su velocidad, con esto pueden
+     apoyar al pescador con ofensiva secundaria y es capaz de llenar
+     eficientemente los huecos de ataque o defensa en puntos particulares. 
+
+     Tener esta posicion te brinda un punto en: [Maestria en Observadores].
+**** [Posicion: Portador de Lanzas] 
+     
+
+     Tener esta posicion te brinda un punto en: [Maestria en Lanzas].
+**** [Posicion: Portador de la Luz] 
+     
+
+     Tener esta posicion te brinda un punto en: [Maestria en Faros].
 **** [Posicion: Controlador de Ondas]
+     
+
+     Tener esta posicion te brinda un punto en: [Maestria en Shinsoo].
 *** Posiciones Especiales 
 **** [Posicion: Guia]
 **** [Posicion: Anima]
