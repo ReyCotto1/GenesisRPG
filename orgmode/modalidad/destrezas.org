@@ -12,20 +12,35 @@
      una dependiente de la otra. El mas basico ejemplo puede ser la [Maestria en Shinsoo] y sus
      especializaciones: [Baang], [Myun], [Soo] y la importante [Tension].
      Para mas informacion leer [[https://towerofgod.fandom.com/wiki/Shinsoo][aqui]] la seccion llamada Baang, Myun and Soo.
+** Posiciones 
+   Las posiciones son destrezas particulares que representan la habilidad de una persona
+   para llevar a cabo una tarea especifica dentro del campo de batalla. 
+
+*** Posiciones Basicas 
+**** [Posicion: Pescador]
+**** [Posicion: Explorador]
+**** [Posicion: Portador de Lanzas]
+**** [Posicion: Portador de la Luz]
+**** [Posicion: Controlador de Ondas]
+*** Posiciones Especiales 
+**** [Posicion: Guia]
+**** [Posicion: Anima]
+**** [Posicion: Defensor]
 ** Afinidades 
-     Las afinidades del shinsoo son, precisamente, un tipo de destreza que cambian directamente
+     Las afinidades del shinsoo son, precisamente, un tipo de destreza que cambia directamente
      la naturaleza, forma y funcion del shinsoo para transformarlo en materia no-viviente; aunque
      se dice que han habido irregulares con una alta maestria para controlar el shinsoo, que han
      podido crear vida del mismo. Aunque son solo especulaciones, despues de todo.
 
      Afinidades conocidas:
-     -[Afinidad Ignea]
-     -[Afinidad Electrica]
-     -[Afinidad Acuatica]
-     -[Afinidad Terrestre]
-     -[Afinidad Aerea]
-     -[Afinidad Forestal]
-     -[Afinidad Floral]
+
+     *Afinidad Ignea*
+     *Afinidad Electrica*
+     *Afinidad Acuatica*
+     *Afinidad Terrestre*
+     *Afinidad Aerea*
+     *Afinidad Forestal*
+     *Afinidad Floral*
 
      No obstante, que ya haya un listado de afinidades conocidas 
      no quiere decir que no puedan existir otras.
