@@ -19,6 +19,16 @@
    completar el Piso de las Pruebas. Asimismo, si dos combatientes tienen la misma
    destreza en el mismo nivel, siempre ganara el que tenga la posicion especializada.
 *** Posiciones Basicas 
+**** [Posicion: Anima]
+     Los Anima son aquellos usuarios capaces de subyugar y controlar
+     los seres vivientes de la torre; ya sean Shinheuh (criaturas
+     originarias de la torre, usualmente dependientes del shinsoo)
+     o animales comunes. Los Anima utilizan sus sirvientes para atacar
+     o defenderse en el campo de batalla; cabe destacar que estos 
+     necesitan un recipiente para ser controlados. De otra forma, el
+     Anima perderia todo el control sobre su mascota.
+
+     Tener esta posicion te brinda un punto en: [Control Animal].
 **** [Posicion: Pescador] 
      El pescador es una posicion ofensiva centrada en rango medio-corto. 
      Los pescadores usualmente utilizan un inventario de carrete lleno de agujas;
@@ -37,8 +47,6 @@
      eficientemente los huecos de ataque o defensa en puntos particulares. 
 
      Tener esta posicion te brinda un punto en: [Maestria en Observadores].
-**** [Posicion: Defensor]
-
 **** [Posicion: Portador de Lanzas] 
      Este rol se especializa en el uso de la lanza como arma, en todo
      su ambito; por lo mismo, se divide en dos grupos. El lancero de corta
@@ -64,9 +72,8 @@
      para apoyar a sus companeros. 
 
      Tener esta posicion te brinda un punto en: [Maestria en Shinsoo].
-*** Posiciones Especiales     
+*** Posiciones Especiales 
 **** [Posicion: Guia]
-**** [Posicion: Anima]
 ** Afinidades 
      Las afinidades del shinsoo son, precisamente, un tipo de destreza que cambia directamente
      la naturaleza, forma y funcion del shinsoo para transformarlo en materia no-viviente; aunque
