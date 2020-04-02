@@ -47,7 +47,8 @@ La familia Hendo Lok es conocida por su gran defensa en todos los sentidos, aunq
 menor influencia y cantidad de rankers. Esto se debe a que su lider hizo un pacto con los guardianes 
 que los maldijo con periodos de vida cortos con tal de obtener la inmortalidad.
 **** Habilidad: [Descendiente de la Familia Hendo Lok] 
-     - Obliga al usuario a portar la disciplina de la [Posicion: Defensor].
+     - Obliga al usuario a gastar un punto mas en la caracteristica de [Aguante],
+       en cambio, permite un nivel extra en la misma.
 
 *** DONE Koon 
 Los Koon son la familia mas confiada y orgullosa del resto, aunque no les falta razon.
@@ -63,24 +64,25 @@ Esto es debido a que existe una alta posibilidad que los descendientes Lo Po Bia
 hereden la posicion especial de Anima; los anima son reconocidos por controlar
 las bestias dependientes del shinsoo y los animales de la torre.
 **** Habilidad: [Descendiente de la Familia Lo Po Bia] 
-     - Obliga al usuario a portar la disciplina de la [Posicion: Anima].
+     - Obliga al usuario a portar la disciplina del [Control Animal],
+       en cambio, permite un nivel extra en la misma. 
 
 *** DONE Po Bidau 
-La familia Po Bidau son expertas en el manejo del Shinsoo, principalmente con gran precisión.
-Esto los hace principalmente cercanos a la Asociación de Investigación, la cual goza de gran
-prestigio y en caso de no acceder a esta se les expulsa de la casa en sí.
+La familia Po Bidau son expertas en el manejo del Shinsoo, principalmente con gran precision.
+Esto los hace principalmente cercanos a la Asociacion de Investigacion, la cual goza de gran
+prestigio y en caso de no acceder a esta se les expulsa de la casa en si.
 **** Habilidad: [Descendiente de la Familia Po Bidau] 
      - Obliga al usuario a portar la disciplina de la [Mejora Shinsoo],
      en cambio, permite un nivel extra en la misma. 
 
-*** DONE Tu Perie
+*** DONE Tu Perie 
 La familia Tu Perie desde sus comienzos se ha dedicado al uso de los faros.
-Gracias a los años de experiencia y tener a los mejores en el ámbito, sin
-mucho esfuerzo esta familia fue rápidamente reconocida por sus habilidades
-en convertirse en los usuarios de una posición específica: Portador de la Luz.
+Gracias a los anos de experiencia y tener a los mejores en el ambito, sin
+mucho esfuerzo esta familia fue rapidamente reconocida por sus habilidades
+en convertirse en los usuarios de una posicion especifica: Portador de la Luz.
 **** Habilidad: [Descendiente de la Familia Tu Perie] 
-     - Obliga al usuario a portar la disciplina de la [Posicion: Portador de la Luz],
-     en cambio, permite un nivel extra en la misma. 
+     - Obliga al usuario a portar la disciplina de la [Maestria en Faros],
+       en cambio, permite un nivel extra en la misma. 
 
 *** DONE Yeon 
 Los Yeon son una familia matriarcal donde las mujeres son las que toman los roles

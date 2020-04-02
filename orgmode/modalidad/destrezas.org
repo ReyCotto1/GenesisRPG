@@ -27,7 +27,7 @@
      lentos y debiles. No obstante, ser pescador no te vuelve experto en agujas,
      ya que no es un limite, y queda a preferencia del pescador.
 
-     Tener esta posicion te brinda un punto en: [Maestria en Carretes].
+     Tener esta posicion te brinda un punto en: [Maestria en ~arma~ ].
 **** [Posicion: Explorador] 
      Hay dos tipos de exploradores. Los exploradores convencionales trabajan
      para recopilar informacion y distribuirla entre los miembros del grupo
@@ -37,26 +37,36 @@
      eficientemente los huecos de ataque o defensa en puntos particulares. 
 
      Tener esta posicion te brinda un punto en: [Maestria en Observadores].
+**** [Posicion: Defensor]
+
 **** [Posicion: Portador de Lanzas] 
      Este rol se especializa en el uso de la lanza como arma, en todo
-     su ambito; por lo mismo, se divide en dos grupos. El lancero de
-     corta distancia utiliza la lanza para atacar puntos debiles del enemigo
-     a melee, mientras que el francotirador utiliza la lanza como un proyectil
-     para poder 
+     su ambito; por lo mismo, se divide en dos grupos. El lancero de corta
+     distancia utiliza la lanza para atacar puntos debiles del enemigo en
+     combate cuerpo a cuerpo, mientras que el francotirador utiliza la lanza 
+     como un proyectil para poder aprovecharse de la fragilidad defensiva de 
+     su oponente.
 
      Tener esta posicion te brinda un punto en: [Maestria en Lanzas].
 **** [Posicion: Portador de la Luz] 
-     
+     El portador de luz se centra en el despliegue y manipulacion de los dispositivos
+     exploradores llamados Faros. Estos se utilizan para obtener informacion sobre la
+     batalla o el entorno, pero especialmente para realizar calculos o desplegar barreras
+     que inmovilicen a su enemigo o su ofensiva. Hay dos tipos, el que se centra en recabar
+     informacion y utilizarla personalmente en la batalla, o los que unicamente formulan planes
+     con dicha informacion (tipo estratega); a estos ultimos se les llama Guardianes del Faro.
 
      Tener esta posicion te brinda un punto en: [Maestria en Faros].
-**** [Posicion: Controlador de Ondas]
-     
+**** [Posicion: Manipulador de Ondas] 
+     Como en algunas posiciones previas, hay dos tipos de manipuladores de ondas. 
+     Ambos manejan el shinsoo para utilizarlo en el campo de batalla, pero mientras
+     unos lo manipulan para confeccionar precisos ataques con shinsoo, otros lo usan
+     para apoyar a sus companeros. 
 
      Tener esta posicion te brinda un punto en: [Maestria en Shinsoo].
-*** Posiciones Especiales 
+*** Posiciones Especiales     
 **** [Posicion: Guia]
 **** [Posicion: Anima]
-**** [Posicion: Defensor]
 ** Afinidades 
      Las afinidades del shinsoo son, precisamente, un tipo de destreza que cambia directamente
      la naturaleza, forma y funcion del shinsoo para transformarlo en materia no-viviente; aunque
