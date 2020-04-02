@@ -71,9 +71,8 @@
      unos lo manipulan para confeccionar precisos ataques con shinsoo, otros lo usan
      para apoyar a sus companeros. 
 
-     Tener esta posicion te brinda un punto en: [Maestria en Shinsoo].
-*** Posiciones Especiales 
-**** [Posicion: Guia]
+     Tener esta posicion te brinda un punto en: [Maestria en Shinsoo].  
+*** [Posicion: Guia]
 ** Afinidades 
      Las afinidades del shinsoo son, precisamente, un tipo de destreza que cambia directamente
      la naturaleza, forma y funcion del shinsoo para transformarlo en materia no-viviente; aunque
