@@ -15,48 +15,47 @@ Es una familia pacifista, odian la guerra y hacen todo lo posible para evitarla.
 Los miembros de esta familia utilizan una aguja como arma, rapida y certera, 
 con notables habilidades para perforar armaduras de shinsoo.
 **** Habilidad: [Descendiente de la Familia Ari] 
-     - Obliga al usuario a portar la disciplina de la [Maestria de la Aguja],
-       en cambio, permite un nivel extra en la misma. 
+     - Obliga al usuario a portar [Maestria de la Aguja], en cambio, 
+     permite un nivel extra en la misma. 
 
 *** DONE Arie 
 Los Arie son conocidos por su fuerza brutal, enorgullecidos por llevar al lider
 mas poderoso entre las diez grandes familias. Su cabello blanco y su impecable 
 arte con la espada los separa facilmente de lo comun y les hace temibles adversarios.
 **** Habilidad: [Descendiente de la Familia Arie] 
-     - Obliga al usuario a portar la disciplina de la [Maestria de la Espada],
-       en cambio, permite un nivel extra en la misma. 
+     - Obliga al usuario a portar [Maestria de la Espada], en cambio, 
+     permite un nivel extra en la misma. 
 
 *** DONE Eurasia 
 La familia Eurasia es conocida por ser una de las pocas en tener distintas ramas. 
 Los Eurasia y los Phonsekal tienen una habilidad innata para controlar el shinsoo, 
 ademas, lo unico que los diferencia es que los Phonsekal son amantes a dormir. 
 **** Habilidad: [Descendiente de la Familia Eurasia & Phonsekal] 
-     - Obliga al usuario a portar la disciplina de la [Maestria del Shinsoo],
-       en cambio, permite un nivel extra en la misma. 
+     - Obliga al usuario a portar [Maestria en Shinsoo], en cambio, 
+     permite un nivel extra en la misma. 
 
 *** DONE Ha 
 La familia Ha es conocida por mantener un contrato con los Guardianes. El mismo
 permite a los descendientes poseer una mejora de shinsoo sin comparacion con otro
 usuario de la torre, bendiciendolos con un cuerpo dificil de herir. 
 **** Habilidad: [Descendiente de la Familia Ha] 
-     - Obliga al usuario a gastar un punto mas en la caracteristica de [Fuerza],
-       en cambio, permite un nivel extra en la misma. 
+     - Obliga al usuario a gastar un punto en [Fuerza], en cambio, 
+     permite un nivel extra en la misma. 
 
 *** DONE Hendo Lok 
 La familia Hendo Lok es conocida por su gran defensa en todos los sentidos, aunque tienen la
 menor influencia y cantidad de rankers. Esto se debe a que su lider hizo un pacto con los guardianes 
 que los maldijo con periodos de vida cortos con tal de obtener la inmortalidad.
 **** Habilidad: [Descendiente de la Familia Hendo Lok] 
-     - Obliga al usuario a gastar un punto mas en la caracteristica de [Aguante],
-       en cambio, permite un nivel extra en la misma.
+     - Obliga al usuario a gastar un punto en [Aguante], en cambio, 
+     permite un nivel extra en lo mismo.
 
 *** DONE Koon 
 Los Koon son la familia mas confiada y orgullosa del resto, aunque no les falta razon.
 Los descendientes de esta familia nacen con una afinidad particular a la electricidad,
 lo que les permite imbuir sus ataques con corriente electrica. 
 **** Habilidad: [Descendiente de la Familia Koon] 
-     - Obliga al usuario a portar la disciplina de la [Afinidad Electrica],
-       en cambio, permite un nivel extra en la misma. 
+     - Permite al usuario a portar [Afinidad Electrica] o [Afinidad Gelida].
 
 *** DONE Lo Po Bia 
 La familia Lo Po Bia es quizas una de las mas excepcionales dentro de la torre.
@@ -64,16 +63,16 @@ Esto es debido a que existe una alta posibilidad que los descendientes Lo Po Bia
 hereden la posicion especial de Anima; los anima son reconocidos por controlar
 las bestias dependientes del shinsoo y los animales de la torre.
 **** Habilidad: [Descendiente de la Familia Lo Po Bia] 
-     - Obliga al usuario a portar la disciplina del [Control Animal],
-       en cambio, permite un nivel extra en la misma. 
+     - Obliga al usuario a portar [Control Animal], en cambio, 
+     permite un nivel extra en el mismo. 
 
 *** DONE Po Bidau 
 La familia Po Bidau son expertas en el manejo del Shinsoo, principalmente con gran precision.
 Esto los hace principalmente cercanos a la Asociacion de Investigacion, la cual goza de gran
 prestigio y en caso de no acceder a esta se les expulsa de la casa en si.
 **** Habilidad: [Descendiente de la Familia Po Bidau] 
-     - Obliga al usuario a portar la disciplina de la [Mejora Shinsoo],
-     en cambio, permite un nivel extra en la misma. 
+     - Obliga al usuario a portar [Mejora Shinsoo], en cambio, 
+     permite un nivel extra en la misma. 
 
 *** DONE Tu Perie 
 La familia Tu Perie desde sus comienzos se ha dedicado al uso de los faros.
@@ -81,8 +80,8 @@ Gracias a los anos de experiencia y tener a los mejores en el ambito, sin
 mucho esfuerzo esta familia fue rapidamente reconocida por sus habilidades
 en convertirse en los usuarios de una posicion especifica: Portador de la Luz.
 **** Habilidad: [Descendiente de la Familia Tu Perie] 
-     - Obliga al usuario a portar la disciplina de la [Maestria en Faros],
-       en cambio, permite un nivel extra en la misma. 
+     - Obliga al usuario a portar [Maestria en Faros], en cambio, 
+     permite un nivel extra en la misma. 
 
 *** DONE Yeon 
 Los Yeon son una familia matriarcal donde las mujeres son las que toman los roles
@@ -90,9 +89,7 @@ importantes dentro de la rama central, y los hombres son despreciados y subestim
 Los miembros de esta familia con el fuego mismo en el momento en el que nacen, esto
 les permite manipular el fuego en su interior y utilizarlo de forma ofensiva y defensiva. 
 **** Habilidad: [Descendiente de la Familia Yeon] 
-     - Obliga al usuario a portar la disciplina de la [Afinidad Ignea],
-       en cambio, permite un nivel extra en la misma. Este ultimo nivel varia
-       entre: [El fuego que todo lo quema] o [La llama que todo lo cura]. 
+     - Permite al usuario a portar [Afinidad Ignea].
 
 ** Guias 
     Los guias son una clase especial dentro de la torre. Enfocados en
@@ -130,7 +127,7 @@ hace tan peligrosos como poderosos y son temidos por muchos.
 Descendiente de los nativos de la torre interior.
   - Inicia con un solo punto de disciplina y la cualidad [Nativo].
 *** Cualidad: [Nativo] 
-     Permite un nivel extra en una de las siguientes afinidades:
+     Permite uno de tus niveles en una de las siguientes afinidades:
 
      - [Afinidad Terrestre]
      - [Afinidad Acuatica]

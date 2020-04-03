@@ -1,0 +1,136 @@
+* ASCENDENCIA 
+
+** Regular 
+Descendiente de una pareja de regulares provenientes de la torre.
+  - Inicia sin ventajas en cuestion a disciplinas, pero con la ventaja de poder
+    elegir cuales disciplinas adoptar en la creacion de su personaje.
+
+** Noble 
+Descendiente, directo o indirecto, de uno de los lideres de las grandes familias.
+  - Inicia con la ventaja de la familia elegida, no obstante, solo tiene una
+    disciplina a elegir en el momento de la creacion de su personaje.
+
+*** DONE Ari 
+Es una familia pacifista, odian la guerra y hacen todo lo posible para evitarla. 
+Los miembros de esta familia utilizan una aguja como arma, rapida y certera, 
+con notables habilidades para perforar armaduras de shinsoo.
+**** Habilidad: [Descendiente de la Familia Ari] 
+     - Obliga al usuario a portar [Maestria de la Aguja], en cambio, 
+     permite un nivel extra en la misma. 
+
+*** DONE Arie 
+Los Arie son conocidos por su fuerza brutal, enorgullecidos por llevar al lider
+mas poderoso entre las diez grandes familias. Su cabello blanco y su impecable 
+arte con la espada los separa facilmente de lo comun y les hace temibles adversarios.
+**** Habilidad: [Descendiente de la Familia Arie] 
+     - Obliga al usuario a portar [Maestria de la Espada], en cambio, 
+     permite un nivel extra en la misma. 
+
+*** DONE Eurasia 
+La familia Eurasia es conocida por ser una de las pocas en tener distintas ramas. 
+Los Eurasia y los Phonsekal tienen una habilidad innata para controlar el shinsoo, 
+ademas, lo unico que los diferencia es que los Phonsekal son amantes a dormir. 
+**** Habilidad: [Descendiente de la Familia Eurasia & Phonsekal] 
+     - Obliga al usuario a portar [Maestria en Shinsoo], en cambio, 
+     permite un nivel extra en la misma. 
+
+*** DONE Ha 
+La familia Ha es conocida por mantener un contrato con los Guardianes. El mismo
+permite a los descendientes poseer una mejora de shinsoo sin comparacion con otro
+usuario de la torre, bendiciendolos con un cuerpo dificil de herir. 
+**** Habilidad: [Descendiente de la Familia Ha] 
+     - Obliga al usuario a gastar un punto en [Fuerza], en cambio, 
+     permite un nivel extra en la misma. 
+
+*** DONE Hendo Lok 
+La familia Hendo Lok es conocida por su gran defensa en todos los sentidos, aunque tienen la
+menor influencia y cantidad de rankers. Esto se debe a que su lider hizo un pacto con los guardianes 
+que los maldijo con periodos de vida cortos con tal de obtener la inmortalidad.
+**** Habilidad: [Descendiente de la Familia Hendo Lok] 
+     - Obliga al usuario a gastar un punto en [Aguante], en cambio, 
+     permite un nivel extra en lo mismo.
+
+*** DONE Koon 
+Los Koon son la familia mas confiada y orgullosa del resto, aunque no les falta razon.
+Los descendientes de esta familia nacen con una afinidad particular a la electricidad,
+lo que les permite imbuir sus ataques con corriente electrica. 
+**** Habilidad: [Descendiente de la Familia Koon] 
+     - Permite al usuario a portar [Afinidad Electrica] o [Afinidad Gelida].
+
+*** DONE Lo Po Bia 
+La familia Lo Po Bia es quizas una de las mas excepcionales dentro de la torre.
+Esto es debido a que existe una alta posibilidad que los descendientes Lo Po Bia
+hereden la posicion especial de Anima; los anima son reconocidos por controlar
+las bestias dependientes del shinsoo y los animales de la torre.
+**** Habilidad: [Descendiente de la Familia Lo Po Bia] 
+     - Obliga al usuario a portar [Control Animal], en cambio, 
+     permite un nivel extra en el mismo. 
+
+*** DONE Po Bidau 
+La familia Po Bidau son expertas en el manejo del Shinsoo, principalmente con gran precision.
+Esto los hace principalmente cercanos a la Asociacion de Investigacion, la cual goza de gran
+prestigio y en caso de no acceder a esta se les expulsa de la casa en si.
+**** Habilidad: [Descendiente de la Familia Po Bidau] 
+     - Obliga al usuario a portar [Mejora Shinsoo], en cambio, 
+     permite un nivel extra en la misma. 
+
+*** DONE Tu Perie 
+La familia Tu Perie desde sus comienzos se ha dedicado al uso de los faros.
+Gracias a los anos de experiencia y tener a los mejores en el ambito, sin
+mucho esfuerzo esta familia fue rapidamente reconocida por sus habilidades
+en convertirse en los usuarios de una posicion especifica: Portador de la Luz.
+**** Habilidad: [Descendiente de la Familia Tu Perie] 
+     - Obliga al usuario a portar [Maestria en Faros], en cambio, 
+     permite un nivel extra en la misma. 
+
+*** DONE Yeon 
+Los Yeon son una familia matriarcal donde las mujeres son las que toman los roles
+importantes dentro de la rama central, y los hombres son despreciados y subestimados.
+Los miembros de esta familia con el fuego mismo en el momento en el que nacen, esto
+les permite manipular el fuego en su interior y utilizarlo de forma ofensiva y defensiva. 
+**** Habilidad: [Descendiente de la Familia Yeon] 
+     - Permite al usuario a portar [Afinidad Ignea].
+
+** Guias 
+    Los guias son una clase especial dentro de la torre. Enfocados en
+    seguir a una ideologia mayor, se enfocan en servir a aquella persona
+    hacia la que han regalado sus votos. Sus habilidades van desde una
+    inmensa biblioteca de conocimiento general, hasta un entendimiento
+    de la torre y el campo de batalla mas alla de los limites; pues se
+    dice que los guias son capaces, en mayor o menor medida, de ver las
+    encrucijadas que le deparara el futuro.
+
+    
+*** Brujas Carmesi
+    Las brujas carmesi tienen la habilidad de ver las encrucijadas del
+    futuro en una escala mucho mayor que otros guias, en cambio, ven una
+    parte muy poco detallada de la misma. Las brujas carmesi usualmente
+    son vistas como una seccion importantisima de la asociacion FUG.
+    Tambien, son conocidas porque la raza entera de brujas carmesi 
+    poseen el cabello y ojos rojizos. 
+*** Enanos Plateados
+    Los enanos plateados tienen la habilidad de ver las encrucijadas del
+    futuro inmediato, maximo un par de horas, en cambio, ven casi exactamente
+    lo que pasara, con lujo de detalles en todos los caminos a tomar. 
+    Los enanos plateados son asignados a una princesa Zahard desde el momento
+    en que la ceremonia acaba. Al igual que las brujas carmesi, los enanos
+    plateados son conocidos por su poca estatura y su cabello y ojos color plata.
+** Irregular 
+Ascendencia desconocida, proveniente de algun lugar fuera de la torre.
+Los irregulares se llaman asi ya que han, de una forma u otra, conseguido
+ingresar a la torre sin ser elegidos expresamente por Headon. Esto los
+hace tan peligrosos como poderosos y son temidos por muchos.
+**** Habilidad: [Irregularidad] 
+     - Obliga al usuario a portar [Irregularidad].
+
+** Antigua 
+Descendiente de los nativos de la torre interior.
+  - Inicia con un solo punto de disciplina y la cualidad [Nativo].
+*** Cualidad: [Nativo] 
+     Permite uno de tus niveles en una de las siguientes afinidades:
+
+     - [Afinidad Terrestre]
+     - [Afinidad Acuatica]
+     - [Afinidad Ignea]
+     - [Afinidad Aerea]
+     - [Afinidad Forestal]

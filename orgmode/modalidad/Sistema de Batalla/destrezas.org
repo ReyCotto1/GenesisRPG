@@ -1,0 +1,96 @@
+* DESTREZAS 
+
+** Combat Points 
+     El uso de tus tecnicas en batalla te familiariza y ensena muchos matices ocultos sobre
+     el arte de la guerra, y estas experiencias son una herramienta clave para mejorar tus
+     destrezas de batalla. Cada combate te regala valiosos puntos con los que mejorar.
+** Especializaciones 
+     Las destrezas son aconglomeraciones muy generales para clasificar los distintos estilos
+     de lucha y la gran posibilidad de varianzas que tiene una misma destreza. Por lo tanto, 
+     en algunos casos, las destrezas pueden tener varias destrezas "dentro" de la misma. 
+     Ergo, para poder avanzar en una especialidad necesitas subir la destreza madre, haciendola
+     una dependiente de la otra. El mas basico ejemplo puede ser la [Maestria en Shinsoo] y sus
+     especializaciones: [Baang], [Myun], [Soo] y la importante [Tension].
+     Para mas informacion leer [[https://towerofgod.fandom.com/wiki/Shinsoo][aqui]] la seccion llamada Baang, Myun and Soo.
+** Posiciones 
+   Las posiciones son destrezas particulares que representan la pericia de
+   una persona para llevar a cabo una tarea especifica dentro del campo de batalla. 
+   Estas destrezas solo tienen un punto, y la primera posicion es regalada luego de 
+   completar el Piso de las Pruebas. Asimismo, si dos combatientes tienen la misma
+   destreza en el mismo nivel, siempre ganara el que tenga la posicion especializada.
+*** Posiciones Basicas 
+**** [Posicion: Anima] 
+     Los Anima son aquellos usuarios capaces de subyugar y controlar
+     los seres vivientes de la torre; ya sean Shinheuh (criaturas
+     originarias de la torre, usualmente dependientes del shinsoo)
+     o animales comunes. Los Anima utilizan sus sirvientes para atacar
+     o defenderse en el campo de batalla; cabe destacar que estos 
+     necesitan un recipiente para ser controlados. De otra forma, el
+     Anima perderia todo el control sobre su mascota.
+
+     Tener esta posicion te brinda un punto en: [Control Animal].
+**** [Posicion: Pescador] 
+     El pescador es una posicion ofensiva centrada en rango medio-corto. 
+     Los pescadores usualmente utilizan un inventario de carrete lleno de agujas;
+     ver otro tipo de armas en un pescador es raro ya que el resto de armas
+     tienen mucha mas resistencia por la densidad de shinsoo, lo que les hace mas
+     lentos y debiles. No obstante, ser pescador no te vuelve experto en agujas,
+     ya que no es un limite, y queda a preferencia del pescador.
+
+     Tener esta posicion te brinda un punto en: [Maestria en ~arma~ ].
+**** [Posicion: Explorador] 
+     Hay dos tipos de exploradores. Los exploradores convencionales trabajan
+     para recopilar informacion y distribuirla entre los miembros del grupo
+     utilizando su observador. El otro tipo son exploradores de combate, estos
+     usan armamento ligero para centrarse en su velocidad, con esto pueden
+     apoyar al pescador con ofensiva secundaria y es capaz de llenar
+     eficientemente los huecos de ataque o defensa en puntos particulares. 
+
+     Tener esta posicion te brinda un punto en: [Maestria en Observadores].
+**** [Posicion: Portador de Lanzas] 
+     Este rol se especializa en el uso de la lanza como arma, en todo
+     su ambito; por lo mismo, se divide en dos grupos. El lancero de corta
+     distancia utiliza la lanza para atacar puntos debiles del enemigo en
+     combate cuerpo a cuerpo, mientras que el francotirador utiliza la lanza 
+     como un proyectil para poder aprovecharse de la fragilidad defensiva de 
+     su oponente.
+
+     Tener esta posicion te brinda un punto en: [Maestria en Lanzas].
+**** [Posicion: Portador de la Luz] 
+     El portador de luz se centra en el despliegue y manipulacion de los dispositivos
+     exploradores llamados Faros. Estos se utilizan para obtener informacion sobre la
+     batalla o el entorno, pero especialmente para realizar calculos o desplegar barreras
+     que inmovilicen a su enemigo o su ofensiva. Hay dos tipos, el que se centra en recabar
+     informacion y utilizarla personalmente en la batalla, o los que unicamente formulan planes
+     con dicha informacion (tipo estratega); a estos ultimos se les llama Guardianes del Faro.
+
+     Tener esta posicion te brinda un punto en: [Maestria en Faros].
+**** [Posicion: Manipulador de Ondas] 
+     Como en algunas posiciones previas, hay dos tipos de manipuladores de ondas. 
+     Ambos manejan el shinsoo para utilizarlo en el campo de batalla, pero mientras
+     unos lo manipulan para confeccionar precisos ataques con shinsoo, otros lo usan
+     para apoyar a sus companeros. 
+
+     Tener esta posicion te brinda un punto en: [Maestria en Shinsoo].  
+*** [Posicion: Guia]
+** Afinidades 
+     Las afinidades del shinsoo son, precisamente, un tipo de destreza que cambia directamente
+     la naturaleza, forma y funcion del shinsoo para transformarlo en materia no-viviente; aunque
+     se dice que han habido irregulares con una alta maestria para controlar el shinsoo, que han
+     podido crear vida del mismo. Aunque son solo especulaciones, despues de todo.
+     
+     Las afinidades solo tienen un punto, y te permiten aprender destrezas que implementen ese
+     tipo de naturaleza. Por ejemplo, no puedes utilizar esferas de fuego (utilizando shinsoo)
+     sin tener [Maestria en Shinsoo] y tambien [Afinidad Ignea]. Otra cosa a destacar, que solo
+     se puede aprender una afinidad a partir del Rango E. Existe una lista de afinidades conocidas,
+     no obstante, eso no impide al usuario manifestar su shinsoo en afinidades diferentes al listado.
+     Estas son las siguientes:
+
+     *Afinidad Ignea*
+     *Afinidad Electrica*
+     *Afinidad Gelido*
+     *Afinidad Acuatica*
+     *Afinidad Terrestre*
+     *Afinidad Aerea*
+     *Afinidad Forestal*
+     *Afinidad Floral*

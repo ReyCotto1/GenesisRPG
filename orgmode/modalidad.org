@@ -1,6 +1,6 @@
 * MODALIDAD 
 
-** Informacion 
+** Campos Basicos 
 *** Nombre: 
 Campo basico, mutable.
     Nombre y apellido del personaje (familia).
@@ -17,12 +17,6 @@ Campo basico, inmutable.
     - Advanced Ranker
     - High Ranker
     - Blue Hole
-*** [[./modalidad/ascendencia.org][Ascendencia]]: 
-Campo basico, inmutable.
-    - Regular
-    - Noble
-    - Irregular
-    - Antigua
 *** Fisiologia: 
 Campo narrativo, mutable.
     Descripcion fisica, maximo 5 lineas debido a su superficialidad.
@@ -36,14 +30,17 @@ Campo narrativo, mutable.
    El sistema de progreso esta basado en articulos que se obtienen o mejoran
    a cambio de puntos. Los TP mejoran rasgos y los CP mejoran destrezas.
    Utilizando TP's o CP's solo se pueden mejorar estas caracteristicas cinco veces.
-*** [[./modalidad/rasgos.org][Rasgos]]
-*** [[./modalidad/destrezas.org][Destrezas]]
-*** [[./modalidad/cualidades.org][Cualidades]]
-** Sistema de Equipo 
+*** [[./modalidad/ascendencia.org][Ascendencia]]
+*** [[./modalidad/sistema de batalla/rasgos.org][Rasgos]]
+*** [[./modalidad/sistema de batalla/destrezas.org][Destrezas]]
+*** [[./modalidad/sistema de batalla/cualidades.org][Cualidades]]
+** Registros
+*** Registro de Rankers
+*** Catalogo de Objetos
+*** Bestiario de Shinheuh
 ** Sistema de Objetos 
    -
 ** La Fabrica 
 *** Consumibles
 *** Equipamiento
 *** Miscelanea
-    
