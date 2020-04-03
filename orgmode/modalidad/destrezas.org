@@ -19,7 +19,7 @@
    completar el Piso de las Pruebas. Asimismo, si dos combatientes tienen la misma
    destreza en el mismo nivel, siempre ganara el que tenga la posicion especializada.
 *** Posiciones Basicas 
-**** [Posicion: Anima]
+**** [Posicion: Anima] 
      Los Anima son aquellos usuarios capaces de subyugar y controlar
      los seres vivientes de la torre; ya sean Shinheuh (criaturas
      originarias de la torre, usualmente dependientes del shinsoo)
@@ -78,16 +78,19 @@
      la naturaleza, forma y funcion del shinsoo para transformarlo en materia no-viviente; aunque
      se dice que han habido irregulares con una alta maestria para controlar el shinsoo, que han
      podido crear vida del mismo. Aunque son solo especulaciones, despues de todo.
-
-     Afinidades conocidas:
+     
+     Las afinidades solo tienen un punto, y te permiten aprender destrezas que implementen ese
+     tipo de naturaleza. Por ejemplo, no puedes utilizar esferas de fuego (utilizando shinsoo)
+     sin tener [Maestria en Shinsoo] y tambien [Afinidad Ignea]. Otra cosa a destacar, que solo
+     se puede aprender una afinidad a partir del Rango E. Existe una lista de afinidades conocidas,
+     no obstante, eso no impide al usuario manifestar su shinsoo en afinidades diferentes al listado.
+     Estas son las siguientes:
 
      *Afinidad Ignea*
      *Afinidad Electrica*
+     *Afinidad Gelido*
      *Afinidad Acuatica*
      *Afinidad Terrestre*
      *Afinidad Aerea*
      *Afinidad Forestal*
      *Afinidad Floral*
-
-     No obstante, que ya haya un listado de afinidades conocidas 
-     no quiere decir que no puedan existir otras.

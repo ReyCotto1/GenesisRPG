@@ -1,0 +1,48 @@
+* MODALIDAD 
+
+**  
+*** Nombre: 
+Campo basico, mutable.
+    Nombre y apellido del personaje (familia).
+*** Rango: 
+Campo basico, inmutable.
+    Rango de la torre interior. Al inicio se empieza con rango F.
+    - Rango F
+    - Rango E
+    - Rango D
+    - Rango C
+    - Rango B
+    - Rango A
+    - Ranker
+    - Advanced Ranker
+    - High Ranker
+    - Blue Hole
+*** [[./modalidad/ascendencia.org][Ascendencia]]: 
+Campo basico, inmutable.
+    - Regular
+    - Noble
+    - Irregular
+    - Antigua
+*** Fisiologia: 
+Campo narrativo, mutable.
+    Descripcion fisica, maximo 5 lineas debido a su superficialidad.
+*** Psicologia: 
+Campo narrativo, mutable.
+    Descripcion mental, maximo 5 lineas debido a su superficialidad.
+*** Cronologia: 
+Campo narrativo, mutable.
+    Descripcion historica para explicar su ascendencia, maximo 10 lineas.
+** Sistema de Batalla 
+   El sistema de progreso esta basado en articulos que se obtienen o mejoran
+   a cambio de puntos. Los TP mejoran rasgos y los CP mejoran destrezas.
+   Utilizando TP's o CP's solo se pueden mejorar estas caracteristicas cinco veces.
+*** [[./modalidad/rasgos.org][Rasgos]]
+*** [[./modalidad/destrezas.org][Destrezas]]
+*** [[./modalidad/cualidades.org][Cualidades]]
+** Sistema de Equipo 
+** Sistema de Objetos 
+   -
+** La Fabrica 
+*** Consumibles
+*** Equipamiento
+*** Miscelanea
