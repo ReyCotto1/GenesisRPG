@@ -1,0 +1,20 @@
+{
+  "username": "Headon",
+  "embeds": [
+    {
+      "author": {
+        "name": "¿De dónde vienes, hacia dónde vas?", 
+        "url": "",
+        "icon_url": ""
+      },
+      "color": "8899056",
+      "fields": [
+        {
+          "name": "test",
+          "value": "Añade a tu perfil una etiqueta que indique tu ascendencia a otros\n jugadores, y observa con facilidad la ascendencia del resto. ¡Únete al club!\nExisten cinco tipos de ascendencia, utiliza el comando ?rank [nombre]\n para poder asignarte el rol, el listado de rangos es el siguiente:\n~ Regular\n~ Noble\n~ Bruja Carmesí\n~ Enano Plateado\n~ Irregular\n~ Nativo\n\nAccede al canal de comandos_de_bots para escribir tu comando allí.",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
