@@ -31,9 +31,9 @@ Campo narrativo, mutable.
    a cambio de puntos. Los TP mejoran rasgos y los CP mejoran destrezas.
    Utilizando TP's o CP's solo se pueden mejorar estas caracteristicas cinco veces.
 *** [[./modalidad/ascendencia.org][Ascendencia]]
-*** [[./modalidad/sistema de batalla/rasgos.org][Rasgos]]
-*** [[./modalidad/sistema de batalla/destrezas.org][Destrezas]]
-*** [[./modalidad/sistema de batalla/cualidades.org][Cualidades]]
+*** [[./modalidad/Sistema de Batalla/rasgos.org][Rasgos]]
+*** [[./modalidad/Sistema de Batalla/destrezas.org][Destrezas]]
+*** [[./modalidad/Sistema de Batalla/cualidades.org][Cualidades]]
 ** Registros
 *** Registro de Rankers
 *** Catalogo de Objetos
