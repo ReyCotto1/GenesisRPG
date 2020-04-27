@@ -117,7 +117,7 @@ les permite manipular el fuego en su interior y utilizarlo de forma ofensiva y d
     plateados son conocidos por su poca estatura y su cabello y ojos color plata.
 ** Irregular 
 Ascendencia desconocida, proveniente de algun lugar fuera de la torre.
-Los irregulares se llaman así ya que han, de una forma u otra, conseguido
+Los irregulares se llaman asi ya que han, de una forma u otra, conseguido
 ingresar a la torre sin ser elegidos expresamente por Headon. Esto los
 hace tan peligrosos como poderosos y son temidos por muchos.
 **** Habilidad: [Irregularidad] 
